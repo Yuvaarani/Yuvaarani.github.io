@@ -1,0 +1,34 @@
+<section id="introText">
+        <div class="container">
+            <div class="text-center">
+            <h1>I create beautiful responsive websites, Yes I am a UX geek</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum erat et neque tincidunt volutpat. Cras eget augue id dui varius pretium. Cras posuere dolor risus. Pellentesque elementum ultricies quam, sit amet rhoncus nisl viverra in. Cras imperdiet nisi a euismod molestie. Ut a metus arcu. Pellentesque feugiat dictum erat. Nulla vehicula condimentum purus, quis imperdiet nisl ultricies eleifend. Nulla quis rhoncus risus. Ut vel vehicula urna.</p>
+            </div>
+        </div>
+
+    </section>
+	
+	right
+	
+	<div class="col-sm-offset-6 col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-offset-1 col-sm-11">
+                    <div class="timeline-panel debits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">Mussum ipsum cacilds</span></li>
+                            <li><span class="causale">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </span> </li>
+                            <li><p><small class="text-muted"> 11/01/2010 - 10/03/2013</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+		
+		
+	
+	                    <h4>Phone:</h4>
+                    <address>
+                        8610410054, 9843839474<br>
+						9843345747<br>
+                    </address>
